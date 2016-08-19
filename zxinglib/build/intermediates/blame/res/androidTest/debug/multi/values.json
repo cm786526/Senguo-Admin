@@ -1,0 +1,209 @@
+[
+    {
+        "outputFile": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 47,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 47,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 52,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 51,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 35,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 42,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 45,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 33,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 44,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 47,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 46,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 112,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/home/skipjack/AndroidStudioProjects/Senguoadmin/zxinglib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1184
+                    }
+                }
+            }
+        ]
+    }
+]

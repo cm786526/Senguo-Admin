@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent"  
+    android:orientation="vertical" >  
+  
+    <android.support.v4.view.ViewPager  
+        android:id="@+id/viewFlipper1"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content" >  
+  
+        <!-- PagerTabStrip是用来显示title和下划线，如果是为了实现导航向导效果，不需要这个子标签组件 -->  
+        
+    </android.support.v4.view.ViewPager>  
+  
+</LinearLayout>  
